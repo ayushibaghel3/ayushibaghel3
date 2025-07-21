@@ -5,7 +5,7 @@
 
 👨‍💻 I love building beautiful websites and solving problems 💖
 
-🌱 I'm currently working on improving my development skills step by step.
+🌱 Currently working on improving my development skills step by step.
 
 💻 I have intermediate-level knowledge of:
 - Java (Core), MySQL, HTML, CSS, JavaScript
