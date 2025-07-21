@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" />
+<p align="right">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" />
+</p>
 
 <h2>Hey there, I'm Ayushi 👋</h2>
 
