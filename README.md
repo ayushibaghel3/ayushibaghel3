@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi-profile&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi-profile" /> </p>
 
-I love building beautiful websites and solving problems 💖
+👨‍💻 I love building beautiful websites and solving problems 💖
 
 🌱 I'm currently working on improving my development skills step by step.
 
@@ -18,14 +18,11 @@ I love building beautiful websites and solving problems 💖
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+  <a href="https://www.linkedin.com/in/ayushi-baghel-a282a424b/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://leetcode.com/your-leetcode-id/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@your-channel" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" />
+  <a href="https://www.hackerrank.com/profile/ayushibaghel383" target="_blank">
+    <img align="center" src="src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" height="40" width="40" />
   </a>
 </p>
 
