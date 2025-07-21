@@ -1,4 +1,4 @@
-# Hey there! 👋
+<h2>Hey there, I'm Ayushi 👋</h2>
 
  I love building beautiful websites and solving problems 💖
 
