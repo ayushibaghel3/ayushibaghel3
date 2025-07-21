@@ -1,15 +1,21 @@
-<p align="right">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" />
-</p>
+<table>
+  <tr>
+    <td>
 
-<h2>Hey there, I'm Ayushi 👋</h2>
+<h1>Hey there! 👋</h1>
 
-🌱 I'm currently working on improving my development skills step by step.
+I'm Ayushi, a passionate backend Java developer ☕<br>
+I love building beautiful websites and solving problems 🤓<br>
+Currently exploring AI and Cloud technologies 🌩️🧠<br>
+Let's connect and build something amazing together! 🚀
 
-💻 I have beginner to intermediate-level knowledge of:
-- Java (Core), MySQL, HTML, CSS, JavaScript
+</td>
+    <td>
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250"/>
+    </td>
+  </tr>
+</table>
 
-🎯 I believe in learning consistently and growing gradually. I'm exploring new tools and building small projects to enhance my skills every day!
 
 ---
 
