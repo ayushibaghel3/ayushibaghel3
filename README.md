@@ -1,18 +1,14 @@
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
-  <div style="flex: 1;">
-    <h1>Hey there! 👋</h1>
-    <p>
-      I'm Ayushi, I am passionate about Java ☕<br>
-      I love building beautiful websites and solving problems 🤓<br>
-      Currently exploring AI and Cloud technologies 🌩️🧠<br>
-      🎯 I believe in learning consistently and growing gradually. I'm exploring new tools and building small projects to enhance my skills every day!
+# Hey there! 👋
 
-    </p>
-  </div>
-  <div>
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
-  </div>
-</div>
+I'm Ayushi — a passionate learner, working every day to grow my development skills.  
+Currently focusing on Java ☕, MySQL, HTML, CSS, and JavaScript 💻  
+Exploring new tools & building small projects to level up 📈  
+Excited to learn and build something amazing 🚀  
+
+<p align="right">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180"/>
+</p>
+
 
 
 
