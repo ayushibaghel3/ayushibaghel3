@@ -1,5 +1,5 @@
 <h2>Hey there, I'm Ayushi 👋</h2>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDI3OGx0OGszbWhzZTd3a3g4ajZvbGxvcmp5ZDdtY3d2eXkxZmk3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif&ct=g"" />
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDI3OGx0OGszbWhzZTd3a3g4ajZvbGxvcmp5ZDdtY3d2eXkxZmk3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi-profile&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi-profile" /> </p>
 
